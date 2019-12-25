@@ -1,7 +1,7 @@
 # leaderboard
 
-A new Flutter application.
-
+A real time flutter leaderboard using cloud firestore as backend
+(https://user-images.githubusercontent.com/16588377/71443182-8a922080-272f-11ea-8b9c-834d4ddd81d6.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
